@@ -97,7 +97,7 @@ Implemented in `backend/middleware/rateLimiter.js` using Upstash `slidingWindow(
 
 Then serve static output from `dist` using any static server or integrate into backend by serving `dist` folder.
 
-## TODO / improvements
+## future improvement
 
 - Add tests for backend endpoints
 - Use centralized config + validation (e.g. Joi/zod)
